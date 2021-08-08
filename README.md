@@ -1,4 +1,4 @@
-# MMORPG Server / Client
+# MMORPG Multiplayer Server / Client
 
 ## Plateforme
 macOS
